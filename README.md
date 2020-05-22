@@ -3,7 +3,7 @@
 ## Application Concept and Wireframe
 ### Application Concept
 - This is a pokemon catching app
-- We will be ulitizing the pokeAPI for the pokemon data
+- We will be utilizing the pokeAPI for the pokemon data
 - Full CRUD
     - GET: get all pokemon
     - POST: Caught pokemon will be posted to our array
